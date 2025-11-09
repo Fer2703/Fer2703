@@ -1,7 +1,7 @@
 <h1 align="center">
   ¡Hey, qué tal! Bienvenido a mi perfil 👋
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5amE3d3N0MW5wY2tqbjZtbGhnZ3NucnJobHIyNnY4NzA4bXNnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpmdE6UoWHG8g/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" />
 </h1>
 
 <h3 align="center">
