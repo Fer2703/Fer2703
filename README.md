@@ -49,7 +49,8 @@ Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neutralinojs/neutralinojs-original.svg" alt="Neutralinojs" title="Neutralinojs" width="40" height="40" style="margin: 5px;"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" alt="Capacitor" title="Capacitor" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="40" height="40" style="margin: 5px;"/>
 </p>
 
