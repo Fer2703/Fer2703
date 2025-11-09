@@ -24,7 +24,7 @@ Soy un desarrollador apasionado por construir aplicaciones web **creativas y fue
 
 ### 📫 Buscando Oportunidades
             
-Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para aportar mi energía y habilidades a un equipo. También me interesa mucho colaborar en **proyectos open-source**. ¡Conectemos!
+Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para aportar mi energía y habilidades a un equipo. También me interesa mucho colaborar en **proyectos open-source**. ¡Conectemos! 
 
 <br>
 
