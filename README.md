@@ -36,7 +36,7 @@ Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" style="margin: 5px;"/>
+  <img src="httpsIAm(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="margin: 5px;"/>
@@ -49,6 +49,8 @@ Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neutralinojs/neutralinojs-original.svg" alt="Neutralinojs" title="Neutralinojs" width="40" height="40" style="margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="40" height="40" style="margin: 5px;"/>
 </p>
 
 <p align="center">
@@ -81,7 +83,10 @@ Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para a
   <a href="https://github.com/Fer2703/EcoNotificaciones" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fer2703&repo=EcoNotificaciones&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27" alt="EcoNotificaciones"/>
   </a>
-  </p>
+  <a href="httpsm://github.com/Carlos19men/Ctrl-Home" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos19men&repo=Ctrl-Home&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27" alt="Ctrl-Home"/>
+  </a>
+</p>
 
 <br>
 
@@ -113,7 +118,7 @@ Estoy siempre abierto a charlar sobre nuevos proyectos, tecnología o ideas crea
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fabiferchu2703@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="httpsia://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.instagram.com/fer_27032" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
