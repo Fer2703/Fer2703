@@ -87,7 +87,7 @@ Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para a
 
 <p align="center">
   <a href="https://github.com/Fer2703/EcoNotificaciones" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fer2703&repo=EcoNotificaciones&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27" alt="EcoNotificaciones"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fer2703&repo=EcoNotificaciones&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27&cache_bust=1" alt="EcoNotificaciones"/>
   </a>
   <a href="httpsm://github.com/Carlos19men/Ctrl-Home" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos19men&repo=Ctrl-Home&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27" alt="Ctrl-Home"/>
