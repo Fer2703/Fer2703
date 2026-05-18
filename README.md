@@ -72,49 +72,6 @@ Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para a
 
 <br>
 
-## 🛠️ Proyectos Destacados
-
-¡Estos son algunos de los proyectos (individuales y grupales) de los que estoy más orgulloso!
-
-<p align="center">
-  <a href="https://github.com/Cesar2926/IHC_Portal" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cesar2926&repo=IHC_Portal&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27" alt="Arapaima"/>
-  </a>
-  <a href="https://github.com/DanielCarrenoMar/Decor-AR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielCarrenoMar&repo=Decor-AR&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27" alt="Decor-AR"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Fer2703/EcoNotificaciones" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fer2703&repo=EcoNotificaciones&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27&cache_bust=1" alt="EcoNotificaciones"/>
-  </a>
-  <a href="https://github.com/Carlos19men/Ctrl-Home" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos19men&repo=Ctrl-Home&theme=tokyonight&title_color=79ff97&icon_color=79ff97&text_color=ffffff&bg_color=1a1b27" alt="Ctrl-Home"/>
-  </a>
-</p>
-
-<br>
-
-## 📊 Mis Estadísticas de GitHub
-
-Estas estadísticas se actualizan automáticamente.
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Fer2703&show_icons=true&theme=tokyonight&icon_color=79ff97&title_color=79ff97&text_color=ffffff&bg_color=1a1b27&count_private=true&include_all_commits=true" 
-    alt="Estadísticas de GitHub de Fer2703"
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fer2703&layout=compact&theme=tokyonight&title_color=79ff97&text_color=ffffff&bg_color=1a1b27" 
-    alt="Lenguajes más usados por Fer2703"
-    width="48%"
-  />
-</p>
-
-<br>
-
 ## 💬 ¡Conectemos!
 
 Estoy siempre abierto a charlar sobre nuevos proyectos, tecnología o ideas creativas.
