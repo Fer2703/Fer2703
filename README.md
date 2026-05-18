@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Hola, soy Fer2703! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35" />
+  ¡Hola, soy Fer2703!
 </h1>
 
 <h3 align="center">
