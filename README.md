@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Soy Fer2703, un desarrollador FrontEnd y estudiante con la mira puesta en el Full Stack.
+  Soy Fer2703, un desarrollador FrontEnd y estudiante con la mira puesta en el Full Stack
 </h3>
 
 <br>
