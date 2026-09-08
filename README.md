@@ -90,6 +90,8 @@ Soy un desarrollador Full-Stack al que le encanta crear aplicaciones web que sal
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fer2703&theme=radical" alt="Lenguajes más usados" />
 </p>
 
+### 🐍 Mis Contribuciones
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fer2703/Fer2703/output/github-contribution-grid-snake-dark.svg">
