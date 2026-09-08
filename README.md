@@ -83,16 +83,6 @@ Soy un desarrollador Full-Stack al que le encanta crear aplicaciones web que sal
 
 ---
 
-## 🏆 Mis Trofeos
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fer2703&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de Fer2703" />
-  </a>
-</p>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
