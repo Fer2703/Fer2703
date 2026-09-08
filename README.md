@@ -82,6 +82,6 @@ Soy un desarrollador apasionado por construir aplicaciones web **creativas y fue
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fer2703&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Fer2703" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fer2703&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fer2703&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Fer2703" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fer2703&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
