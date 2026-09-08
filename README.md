@@ -2,9 +2,15 @@
   ¡Hola, soy Fer2703!
 </h1>
 
-<h3 align="center">
-  🚀 Desarrollador FrontEnd | Estudiante | Aspirante a Full Stack
-</h3>
+<p align="center">
+  <a href="https://github.com/Fer2703">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=fe428e&center=true&vCenter=true&width=500&lines=Desarrollador+Full-Stack;Estudiante;Apasionado+por+el+desarrollo+web" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fer2703&color=fe428e&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fer2703dev" target="_blank">
@@ -26,16 +32,14 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un desarrollador apasionado por construir aplicaciones web **creativas y fuera de lo común**, con un fuerte enfoque en la **experiencia de usuario (UX)** y el diseño moderno. Me encanta transformar ideas complejas en interfaces limpias e intuitivas.
+Soy un desarrollador Full-Stack al que le encanta crear aplicaciones web que salgan de lo convencional. Le doy mucha importancia a los detalles visuales y a que la experiencia del usuario sea súper fluida; básicamente, disfruto convirtiendo ideas complejas en interfaces limpias y fáciles de usar.
 
-- 💻 Mi lenguaje favorito actualmente es **TypeScript**.
-- 🥑 Gracias a mi participación en competiciones y hackatones, estoy acostumbrado a entregar resultados de calidad en **plazos de tiempo ajustados**.
-- 🌱 Siempre en modo aprendizaje, explorando nuevas tecnologías para dominar.
-- 🎯 **Actualmente trabajando en:**
-  - **Amazonia IA:** Un marketplace innovador dirigido a la Amazonía.
+- 💻 Mi lenguaje de confianza hoy en día es **TypeScript**.
+- 🥑 He participado en varios hackatones, así que le he agarrado el ritmo a trabajar bajo presión y sacar proyectos adelante cuando el tiempo juega en contra.
+- 🌱 Siempre ando curioseando y aprendiendo tecnologías nuevas para no quedarme atrás.
+- 🎯 **Actualmente dedicando mi tiempo a:**
   - **Realtor Guayana:** Una plataforma web multifuncional para el sector inmobiliario y de ingeniería.
-  - Un **proyecto secreto** en el que estoy poniendo toda mi creatividad. 🤫
-- 💼 **Buscando Oportunidades:** Como desarrollador junior, estoy **abierto a ofertas de trabajo** y listo para aportar mi energía a un equipo. ¡También me interesa colaborar en **proyectos open-source**!
+- 💼 **Abierto a nuevas oportunidades:** Como desarrollador junior, estoy buscando sumarme a un buen equipo donde pueda aportar y seguir creciendo. ¡También me entusiasma la idea de colaborar en proyectos open-source!
 
 ---
 
@@ -79,9 +83,27 @@ Soy un desarrollador apasionado por construir aplicaciones web **creativas y fue
 
 ---
 
+## 🏆 Mis Trofeos
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fer2703&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de Fer2703" />
+  </a>
+</p>
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fer2703&theme=radical" alt="Estadísticas de Fer2703" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fer2703&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fer2703/Fer2703/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fer2703/Fer2703/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fer2703/Fer2703/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
